@@ -2,9 +2,9 @@
 	"pages": [
 		// pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
-			"path": "pages/tabBar/component/component",
+			"path": "pages/about/about",
 			"style": {
-				"navigationBarTitleText": "内置组件",
+				"navigationBarTitleText": "关于",
 				"app-plus": {
 					"bounce": "vertical",
 					"titleNView": {
@@ -1170,10 +1170,10 @@
 		"borderStyle": "black",
 		"backgroundColor": "#F8F8F8",
 		"list": [{
-				"pagePath": "pages/tabBar/component/component",
+				"pagePath": "pages/about/about",
 				"iconPath": "static/component.png",
 				"selectedIconPath": "static/componentHL.png",
-				"text": "内置组件"
+				"text": "关于"
 			},
 			{
 				"pagePath": "pages/tabBar/API/API",
